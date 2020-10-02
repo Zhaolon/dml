@@ -1,0 +1,3 @@
+run_prepare.py: prepare the data for 3d network
+run_resnet.py: train the network
+run_predict.py: predict the feature

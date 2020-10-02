@@ -1,0 +1,4 @@
+t.sh: summary the particle number of each point
+string_method.ipynb: plot the energy landscape and find the transition path
+cluster.py: prepare the star files of data points within one cluster
+post_vote_and.sh: the voting script
