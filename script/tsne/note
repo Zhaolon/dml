@@ -1,2 +1,0 @@
-tsne_prepare.py: prepare the input (including the deep feature) for tsne
-tsne_rd.py: apply the tsne algorithm
